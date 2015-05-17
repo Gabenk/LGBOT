@@ -1,0 +1,43 @@
+Hay ,, Thank you for downloading BOT COC version 8.
+-------------------------------------------------- -------
+
+How to use:
+
+- Right-click on: LGBot .au3> Compile Script for xp & 7 32bit / Compile Script (x86) for win 7 & 8 64bit ... wait a minute.
+
+- Then there will be a LGBot .EXE then> Right Click> Run Administrator.
+
+
+Please in Use (~ __ ~) *
+
+- Do not Forget Misc Setting:
+    * Army Camp, Barrack, Townhall, Clan Castil, etc.
+    * Others simply brain-tweaking itself.
+
+NB: CLICK ON IMAGE TO SETTING MANUAL The Misc tab
+
+
+- Raiding The results can be viewed in the folder Loots
+
+
+
+do not completely understand?
+See tutorial on Figure V.8 : zCara.jpg (available in folder)
+
+-------------------------------------------------- -----
+
+
+ADDITIONAL MATERIALS LINK If you have never made this Bot in previous versions:
+
+
+
+- Autoit v.3 = http://adf.ly/1HAkwf ( DOWNLOAD Versi FULL INSTALLER - function Running Bot, install)
+
+
+
+- Bluestaks = http://adf.ly/166pPR (already in Root)
+
+
+
+
+Visit: WWW.gabenk-like.zz.mu (to see the updates' new)
