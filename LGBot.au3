@@ -8,7 +8,7 @@
 
 #include <GUIConstants.au3>
 
-$sBotVersion = "8.0"
+$sBotVersion = "8"
 $sBotTitle = "LGBot - v." & $sBotVersion
 
 If FileExists (@ScriptDir & "\.developer") Then
